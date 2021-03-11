@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/StoreMockup/static/js/main.f90630a9.chunk.js",
+    "main.js.map": "/StoreMockup/static/js/main.f90630a9.chunk.js.map",
+    "runtime-main.js": "/StoreMockup/static/js/runtime-main.e9c9db77.js",
+    "runtime-main.js.map": "/StoreMockup/static/js/runtime-main.e9c9db77.js.map",
+    "static/js/2.5b9307bb.chunk.js": "/StoreMockup/static/js/2.5b9307bb.chunk.js",
+    "static/js/2.5b9307bb.chunk.js.map": "/StoreMockup/static/js/2.5b9307bb.chunk.js.map",
+    "static/js/3.e12f946b.chunk.js": "/StoreMockup/static/js/3.e12f946b.chunk.js",
+    "static/js/3.e12f946b.chunk.js.map": "/StoreMockup/static/js/3.e12f946b.chunk.js.map",
+    "index.html": "/StoreMockup/index.html",
+    "static/js/2.5b9307bb.chunk.js.LICENSE.txt": "/StoreMockup/static/js/2.5b9307bb.chunk.js.LICENSE.txt",
+    "static/media/breakfast.0ec0dd48.jpg": "/StoreMockup/static/media/breakfast.0ec0dd48.jpg",
+    "static/media/momos.ce3bbd79.jpg": "/StoreMockup/static/media/momos.ce3bbd79.jpg",
+    "static/media/potatoes.950ca2cf.jpg": "/StoreMockup/static/media/potatoes.950ca2cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c9db77.js",
+    "static/js/2.5b9307bb.chunk.js",
+    "static/js/main.f90630a9.chunk.js"
+  ]
+}
